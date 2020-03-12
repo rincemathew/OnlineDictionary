@@ -1,0 +1,2 @@
+rootProject.name='OnlineDictionary'
+include ':app'
